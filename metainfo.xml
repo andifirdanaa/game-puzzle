@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="30505C54-D588-45FC-8370-AA802F0B9496" version="0">
+<presentation availableOffline="1" guid="BF2D0A34-1374-4F6E-A72F-62FC284AD1AC" version="0">
 	<info>
-		<title>Untitled Quiz</title>
+		<title>Kuis Mengenal</title>
 		<description/>
 	</info>
-	<files index="id16" thumbnail="id12" totalSize="1881713">
+	<files index="id16" thumbnail="id12" totalSize="1803715">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
