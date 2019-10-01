@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="5359F1D0-5AC1-495E-988B-5830345DF34E" version="0">
+	<info>
+		<title>Kuis Mengenal Hewan</title>
+		<description/>
+	</info>
+	<files index="id30" thumbnail="id26" totalSize="5035290">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/2e81-b044-c025-6767.png</file>
+		<file id="id9">data/images/f440-e028-99a5-e251.png</file>
+		<file id="id10">data/images/img-1338aef26e3f58b32819ef1026b710aef867e6c5.png</file>
+		<file id="id11">data/images/img-2737f6f4c6de7c4e8a7a64bbad5f5168904c1546.png</file>
+		<file id="id12">data/images/img-56b7d0a263a788c099120f70e52c16b63d9b5c4f.png</file>
+		<file id="id13">data/images/img-5c84168435dc34a78b3635d0f76503f12806458d.png</file>
+		<file id="id14">data/images/img-5d28550691d295279dff5aa244cee32317e2e41f.png</file>
+		<file id="id15">data/images/img-762e0878ce7a35897630c79035f3eef5dc52ebff.png</file>
+		<file id="id16">data/images/img-8263427cbd6a6191afbca8500e84379848f34f09.png</file>
+		<file id="id17">data/images/img-a149cf55645d75aa22fbc1cd416940a68f26c194.png</file>
+		<file id="id18">data/images/img-a268513e85552c789e4c03f8fbe9650a830b9579.png</file>
+		<file id="id19">data/images/img-c0e0c1f0be39d9729112582503f7b024f4774bd7.png</file>
+		<file id="id20">data/images/img-c37cc7c834b81644f96d39f1a88412a8fc2b7636.png</file>
+		<file id="id21">data/images/img-e4abe0bd6ec50a93f164bbfd98849c1c79781806.png</file>
+		<file id="id22">data/images/img-e8d07d5177b103ac708bfe7accf84c7cf2a29534.png</file>
+		<file id="id23">data/images/img-f33a84c4ae3178c737e5afb36a3768a830ed2811.png</file>
+		<file id="id24">data/ismplayer/app_store2x.png</file>
+		<file id="id25">data/ismplayer/play.svg</file>
+		<file id="id26">data/ismplayer/preview.png</file>
+		<file id="id27">data/ismplayer/style.css</file>
+		<file id="id28">data/ismplayer/style_mini.css</file>
+		<file id="id29">data/player.js</file>
+		<file id="id30">index.html</file>
+		<file id="id31">ismplayer.html</file>
+		<file id="id32">preview.png</file>
+	</files>
+</presentation>
+
